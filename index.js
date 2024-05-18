@@ -1,3 +1,3 @@
 function alertUser() {
-  alert('You clicked the button, congratulations!');
+  alert('Magui te amo♥');
 }
