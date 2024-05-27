@@ -116,3 +116,10 @@ ul {
   list-style: none;
   padding: 0px;
 }
+
+@media (max-width: 780px) {
+  #bottom-left-section, #bottom-right-section, #card {
+    width: 100%;
+    height: auto;
+  }
+}
